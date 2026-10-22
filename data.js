@@ -5,7 +5,7 @@ const SPOT_DATA = {
     "category": "Koylar & Tatil",
     "hero": {
         "badge": "Mavi Yolculuk",
-        "coverImage": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1600&q=80&fm=webp",
+        "coverImage": "https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&w=1600&q=80&fm=webp",
         "stats": [
             {
                 "label": "Ziyaretçi",
@@ -128,7 +128,7 @@ const SPOT_DATA = {
         "title": "Ulaşım Bilgileri",
         "tip": "Şehir içi toplu taşıma kartlarını kullanarak tüm turistik mekanlara kolayca ulaşabilirsiniz.",
         "mapUrl": "https://maps.google.com/?q=Muğla+Turkey",
-        "mapBgImage": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1600&q=80&fm=webp",
+        "mapBgImage": "https://images.unsplash.com/photo-1590073844006-33379778ae09?auto=format&fit=crop&w=1200&q=80&fm=webp&q=mugla,turkey",
         "methods": [
             {
                 "icon": "fa-solid fa-plane",
